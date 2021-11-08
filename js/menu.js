@@ -76,5 +76,5 @@ if (localStorage.getItem("restaurant")) {
       console.log(error);
     });
 } else {
-  window.location.href = "/index.html";
+  window.location.href = "/Delivery-food/index.html";
 }
