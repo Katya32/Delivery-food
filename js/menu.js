@@ -75,6 +75,7 @@ if (localStorage.getItem("restaurant")) {
     .catch((error) => {
       console.log(error);
     });
-} else {
-  window.location.href = "/Delivery-food/index.html";
 }
+// else {
+//   window.location.href = "/Delivery-food/index.html";
+// }
